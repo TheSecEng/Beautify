@@ -1,0 +1,11 @@
+{
+	"json": {
+		// # Enables sorting the JSON structure
+		"sort_keys": false,
+		// # Sets the indentation level
+		"indentation": 4,
+		// # Enables switching the syntax to JSON
+		// - if the entire file is JSON
+		"entire_file_change_syntax": true
+	}
+}
